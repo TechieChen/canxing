@@ -1,0 +1,209 @@
+﻿# Orchard resource strings - zh-CN
+# Copyright (c) 2010 Outercurve Foundation
+# All rights reserved
+# This file is distributed under the BSD license
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Name"
+msgid "Media Picker"
+msgstr "媒体选择器"
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Author"
+msgid "The Orchard Team"
+msgstr "Orchard 团队"
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Website"
+msgid "http://orchardpro​​ject.net"
+msgstr "http://orchardpro​​ject.net"
+
+#: ~/Modules/Orchard.MediaPicker/Module.txt
+#| msgid "Description"
+msgid "Description for the module"
+msgstr "模块说明"
+
+#: Orchard.MediaPicker.Controllers.AdminController
+#| msgid "Couldn't create media folder"
+msgid "Couldn't create media folder"
+msgstr "无法建立媒体资料夹"
+
+#: Orchard.MediaPicker.Controllers.AdminController
+#| msgid "Creating Folder failed: {0}"
+msgid "Creating Folder failed: {0}"
+msgstr "建立资料夹失败: {0}"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Pick Image"
+msgid "Pick Image"
+msgstr "选择图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Update/Uplo​​ad Image"
+msgid "Update/Uplo​​ad Image"
+msgstr "更新/上传图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Insert/Uplo​​ad Image"
+msgid "Insert/Uplo​​ad Image"
+msgstr "插入/上传图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Index.cshtml
+#| msgid "Browse Media"
+msgid "Browse Media"
+msgstr "浏览媒体"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Media Folders"
+msgid "Media Folders"
+msgstr "媒体资料夹"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Create Folder"
+msgid "Create Folder"
+msgstr "新增资料夹"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "This is a table of the images currently available for use in your application."
+msgid "This is a table of the images currently available for use in your application."
+msgstr "在您的应用中这张表的图片是目前可以使用的。"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Folder"
+msgid "Folder"
+msgstr "资料夹"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Added on"
+msgid "Added on"
+msgstr "新增在"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Size"
+msgid "Size"
+msgstr "大小"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Upload an image from your computer"
+msgid "Upload an image from your computer"
+msgstr "存您的电脑上传图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "URL"
+msgid "URL"
+msgstr "URL"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Alternative Text"
+msgid "Alternative Text"
+msgstr "替代文字"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Class"
+msgid "Class"
+msgstr "类别"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Style"
+msgid "Style"
+msgstr "类型"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr "对齐"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Width"
+msgid "Width"
+msgstr "宽"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Height"
+msgid "Height"
+msgstr "高"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Lock Aspect Ratio"
+msgid "Lock Aspect Ratio"
+msgstr "锁定长宽比率"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Insert"
+msgid "Insert"
+msgstr "插入"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr "更新"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Gallery.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Preview of Image"
+msgid "Preview of Image"
+msgstr "预览图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "URL for the image resource"
+msgid "URL for the image resource"
+msgstr "图片的 URL"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Upload an image from your computer"
+msgid "Upload an image from your computer"
+msgstr "从您的电脑上传图片"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Alternative Text"
+msgid "Alternative Text"
+msgstr "替代文字"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Class"
+msgid "Class"
+msgstr "类别"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Style"
+msgid "Style"
+msgstr "样式"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Alignment"
+msgid "Alignment"
+msgstr "对齐"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Width"
+msgid "Width"
+msgstr "宽"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Height"
+msgid "Height"
+msgstr "高"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Lock Aspect Ratio"
+msgid "Lock Aspect Ratio"
+msgstr "锁定长宽比率"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Insert"
+msgid "Insert"
+msgstr "插入"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Update"
+msgid "Update"
+msgstr "更新"
+
+#: ~/Modules/Orchard.MediaPicker/Views/Admin/Tab_Url.cshtml
+#| msgid "Cancel"
+msgid "Cancel"
+msgstr "取消"
